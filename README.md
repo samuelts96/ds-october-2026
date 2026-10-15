@@ -1,4 +1,7 @@
 # Data Science & Agentic AI Programme
+This ia Akinlolu's Repo
+This is my second example to learn pushing
+One more for the sake of it
 
 An 8-week programme from machine learning to multi-agent AI, with a Week 0 onboarding sprint.
 
